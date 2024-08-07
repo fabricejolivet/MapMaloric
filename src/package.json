@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mapbox-gl": "3.5.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "geojson": "0.5.0",
+    "url": "0.11.3"
+  }
+}
